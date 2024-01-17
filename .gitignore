@@ -1,0 +1,47 @@
+# .gitignore
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Dependency folders
+env/
+lib/
+libs/
+bin/
+include/
+
+# Compiled extensions
+*.so
+*.pyd
+*.dll
+*.pyc
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+# Virtual environment
+venv/
+
+# Output files
+*.csv
+*.xlsx
+
+# System and environment files
+.DS_Store
+.env
+.env.local
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
