@@ -28,7 +28,7 @@ This project implements a smart infrastructure health monitoring system using pr
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/smart_infrastructure_monitoring.git
+git clone https://github.com/shum05/smart_infrastructure_monitoring.git
 
 Install dependencies:
 bash
